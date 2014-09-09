@@ -9,7 +9,7 @@ namespace GitTest
     static class Program
     {
         /// <summary>
-        /// The main entry point for the application.Added for testing, once again
+        /// The main entry point for the application.Added for testing, once again, test
         /// </summary>
         [STAThread]
         static void Main()
